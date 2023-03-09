@@ -1,5 +1,6 @@
 
-Primera version:
+Segunda version:
 ========================================
-esto es para la primera
+esto es para la segunda version
 ========================================
+Nombre:cristianOrizano
